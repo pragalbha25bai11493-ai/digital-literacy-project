@@ -1,9 +1,8 @@
 # 🌐 Digital Literacy Project
 
 ## 👩‍💻 Student Details
-- Name: <Your Sister’s Name>
-- Registration Number: <Reg No>
-- Branch: <Branch>
+- Name: <Praghalbha Padhy>
+
 - Year: 1st Year B.Tech
 
 ---
