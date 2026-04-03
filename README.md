@@ -1,7 +1,7 @@
 # 🌐 Digital Literacy Project
 
 ## 👩‍💻 Student Details
-- Name: <Praghalbha Padhy>
+- Name: Praghalbha Padhy
 
 - Year: 1st Year B.Tech
 
